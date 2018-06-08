@@ -1,2 +1,2 @@
 # template
-Project template test. Clone and pull as needed.
+Project template test. Fork and begin new project as needed.
